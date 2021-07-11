@@ -8,7 +8,6 @@ export class App extends Component {
     return (
       <div>
         <h1>Hi</h1>
-        <Profile/>
       </div>
     )
   }
